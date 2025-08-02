@@ -95,7 +95,9 @@ Local prediction insights (optional)
 
 📌 Folder Structure
 Copy
+
 Edit
+
 ├── USA_Cars.csv
 
 ├── USA_Cars_Classification.ipynb     
