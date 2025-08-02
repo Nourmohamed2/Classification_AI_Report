@@ -54,6 +54,7 @@ bash
 Copy
 Edit
 pip install -r requirements.txt
+
 Run the notebook or script:
 
 Jupyter Notebook: USA_Cars_Price_Prediction.ipynb
