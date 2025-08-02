@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 Run the notebook or script:
 
-Jupyter Notebook: USA_Cars_Price_Prediction.ipynb
+Jupyter Notebook: USA_Cars_Classification.ipynb
 
 Or use Python scripts (if you have them split).
 
