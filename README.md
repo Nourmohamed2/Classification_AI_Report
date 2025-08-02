@@ -97,8 +97,11 @@ Local prediction insights (optional)
 Copy
 Edit
 ├── USA_Cars.csv
-├── USA_Cars_Price_Prediction.ipynb
+
+├── USA_Cars_Classification.ipynb     
+
 ├── README.md
+
 └── requirements.txt
 📬 Contact
 For any questions or suggestions, feel free to reach out:
