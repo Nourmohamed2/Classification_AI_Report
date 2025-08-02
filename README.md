@@ -112,6 +112,9 @@ Edit
 
 For any questions or suggestions, feel free to reach out:
 
+Email: nm437589@gmail.com
+
+phone: +201007155529
 
 
 ### ✅ Optional: `requirements.txt`
